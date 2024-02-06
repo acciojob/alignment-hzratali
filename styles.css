@@ -1,13 +1,16 @@
-/*  your css code here. If applicable */
-#fir{
-	background-color:green;
+#fir {
+    background-color: green;
 }
-#las{
-	background-color:blue;
+
+#las {
+    background-color: blue;
 }
-.middle{
-	border:1px solid black;
+
+.middle {
+    border: 1px solid black;
 }
-td{
-	padding:1px;
+
+td {
+    padding: 1px;
+    border: 1px solid black; /* Add this line to explicitly set the border */
 }
